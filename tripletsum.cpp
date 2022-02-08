@@ -50,7 +50,7 @@ else if(arr[i]+arr[l]+arr[r]<x){
 }else{
 	r--;
 }
-if(ans==1)
+
 break;
 	
 }
